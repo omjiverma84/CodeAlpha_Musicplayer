@@ -3,22 +3,22 @@ const songs = [
     {
         title: "Song One",
         artist: "Artist One",
-        src: "./songs/song1.mp3",
-        cover: "./images/cover1.jpeg"
+        src: "song1.mp3",
+        cover: "cover1.jpeg"
     },
 
     {
         title: "Song Two",
         artist: "Artist Two",
-        src: "./songs/song2.mp3",
-        cover: "./images/cover2.jpeg"
+        src: "song2.mp3",
+        cover: "cover2.jpeg"
     },
 
     {
         title: "Song Three",
         artist: "Artist Three",
-        src: "./songs/song3.mp3",
-        cover: "./images/cover3.jpeg"
+        src: "song3.mp3",
+        cover: "cover3.jpeg"
     }
 
 ];
